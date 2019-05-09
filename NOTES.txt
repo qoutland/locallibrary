@@ -1,0 +1,4 @@
+Syncing Database:
+    npm install async
+    node populatedb <mongodb url>
+    
